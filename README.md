@@ -188,6 +188,8 @@ by hand if you want a clean slate.
 Questions, bugs and requests: <https://github.com/cts-bim/CTS-Revit-Plugin-EXE>
 
 ---
-Authors
-Bruno Dias
-Pedro Oliveira
+
+## Authors
+
+- **Bruno Dias**
+- **Pedro Oliveira**

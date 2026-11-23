@@ -183,12 +183,6 @@ by hand if you want a clean slate.
 
 ---
 
-## Support
-
-Questions, bugs and requests: <https://github.com/cts-bim/CTS-Revit-Plugin-EXE>
-
----
-
 ## Authors
 
 - **Pedro Oliveira**

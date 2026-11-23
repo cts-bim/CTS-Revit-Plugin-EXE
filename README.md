@@ -186,5 +186,4 @@ by hand if you want a clean slate.
 ## Authors
 
 - **Pedro Oliveira**
-- **Bruno Dias**
 
